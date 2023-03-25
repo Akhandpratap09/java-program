@@ -1,0 +1,17 @@
+ class Acl {
+
+//    acl = area of circle
+  float r = 4;
+
+
+
+
+    public static void main(String[] args) {
+
+        Acl obj = new Acl();
+
+     float  c= 3.14f*obj.r*obj.r ;
+
+        System.out.println(c);
+    }
+}
