@@ -12,6 +12,6 @@
 
      float  c= 3.14f*obj.r*obj.r ;
 
-        System.out.println(c);
+        System.out.println("Area of circle :\t" +c);
     }
 }
